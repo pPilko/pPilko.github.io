@@ -1,0 +1,21 @@
+body {
+  max-width: 768px;
+  margin: 5% auto;
+  font-family: "Arial";
+background-image: url("assets/background1.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#main {
+  background-color: white;
+  padding: 10px;
+}
+
+h2 {
+  text-transform: capitalize;
+}
+
+p{
+  text-indent: 2em;
+}

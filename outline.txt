@@ -1,0 +1,13 @@
+How to create a website
+  Tools you need
+    a text editor
+    a web browser
+    a web server
+  The essential files
+    html
+    css
+    javascript
+    assets (images, pdfs, etc.)
+  Putting it together
+
+  Uploading it to your server
