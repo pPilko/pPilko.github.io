@@ -2,9 +2,10 @@ body {
   max-width: 768px;
   margin: 5% auto;
   font-family: "Arial";
-  background-image: url("assets/background1.jpg");
-  background-size: cover;
+  background-image: url("assets/background2.jpg");
+  background-size: auto;
   background-attachment: fixed;
+  background-repeat: space;
 }
 
 #main {
@@ -18,4 +19,16 @@ h1, h2, h3, h4, h5, h6 {
 
 p{
   text-indent: 2em;
+}
+
+h1 {
+  font-size: 150%;
+}
+
+h2 {
+  font-size: 125%;
+}
+
+h3 {
+  font-size: 110%;
 }
